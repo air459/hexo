@@ -1,6 +1,7 @@
 ---
 title: 把 hexo 部署在 Github Pages 中
 date: 2026-02-22 21:40
+tags: [hexo, github]
 ---
 
 # 环境准备

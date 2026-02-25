@@ -1,3 +1,9 @@
+---
+title: Rust学习变量
+date: 2026-02-22 21:40
+tags: "Rust"
+---
+
 # 变量
 ## 声明
 
@@ -32,7 +38,7 @@ let d = "hello"  //&std 字符串切片
 - 字符串切片: &str
 - 字符串: String
 
-### rust特性
+### 特性
 同一个名称，可以重复使用`let`声明
 ```rust
 let x = 5;
@@ -74,3 +80,12 @@ const D:&str = 10      //类型不匹配
 const E:u32 = 10       //正确
 const E:u32 = 60       //不能重复声明同一个名称
 ```
+
+<script src="https://utteranc.es/client.js"
+        repo="air459/hexo"
+        issue-term="pathname"
+        label="评论"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
