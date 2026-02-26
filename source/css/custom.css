@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "0xProto";
+  src: url('/fonts/0xProto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "HarmonyOS Sans Light";
+  src: url('/fonts/HarmonyOS_Sans_Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
