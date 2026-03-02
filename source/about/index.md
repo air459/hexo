@@ -9,6 +9,11 @@ date: 2026-02-22 20:21:23
 github url: https://github.com/air459/hexo
 hexo: https://hexo.io
 fluid: https://fluid-dev.github.io/hexo-fluid-docs/start
+图床: https://picui.cn
+评论: https://utteranc.es
+字体:
+ - 英文(数字)字体: 0xProto-Regular
+ - 中文字体: HarmonyOS_Sans_Light 
 
 # 声明
 
@@ -22,6 +27,7 @@ fluid: https://fluid-dev.github.io/hexo-fluid-docs/start
 # 联系
 电子邮箱: kongqi_air@qq.com
           kongqi_air@foxmail.com
+          f@kongqi-air.top
 
 <hr>
 
