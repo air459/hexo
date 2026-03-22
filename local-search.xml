@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>Rm_Move</title>
+    <link href="/2026/03/22/Rm-Move/"/>
+    <url>/2026/03/22/Rm-Move/</url>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><p>一个基于<code>RUST</code>开发的<code>rm</code>命令<br>本项目类似于<code>Linux</code>的<code>rm</code>命令，但是添加了一些功能</p><h1 id="进度"><a href="#进度" class="headerlink" title="进度"></a>进度</h1><ul><li><input disabled="" type="checkbox"> 删除文件 &amp;&amp; 文件夹</li><li><input disabled="" type="checkbox"> 回收站</li></ul><h1 id="编译"><a href="#编译" class="headerlink" title="编译"></a>编译</h1><p>环境准备</p><ul><li>cargo</li></ul><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">cargo build --release<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>github</tag>
+      
+      <tag>Rm_Move</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Rust学习变量</title>
     <link href="/2026/02/22/Rust%E5%AD%A6%E4%B9%A0_%E5%8F%98%E9%87%8F/"/>
     <url>/2026/02/22/Rust%E5%AD%A6%E4%B9%A0_%E5%8F%98%E9%87%8F/</url>
