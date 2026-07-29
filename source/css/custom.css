@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "LXGWWenKai-Regular.ttf";
+    src: url("/fonts/LXGWWenKai-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-display: swap;
+}
+
+#navbar,
+#navbar.navbar-sticky {
+    background-color: rgba(0, 0, 0, 0.1) !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.ttp {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 6px;
+  vertical-align: middle;
+}
