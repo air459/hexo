@@ -1,0 +1,14 @@
+.ripple-effect {
+    animation: ripple-animation 0.6s ease-out;
+}
+
+@keyframes ripple-animation {
+    from {
+        transform: scale(0);
+        opacity: 0.6;
+    }
+    to {
+        transform: scale(4);
+        opacity: 0;
+    }
+}
